@@ -15,11 +15,14 @@ A library of useful AppleScript functions for Capture One. Designed to help Digi
 - **`BasicAdj.applescript`**: Resets all adjustments of selected images except temperature and tint.
 - **`Color2BW.applescript`**: Toggles black and white mode for selected images.
 - **`ResetComposition.applescript`**: Resets the rotation and crop settings of selected images.
+
 **Capture**
 - **`capture.applescript`**: Triggers the capture of an image through Capture One.
+
 **Navigation**
 - **`SelectNextVariant.applescript`**: Selects the next variant of an image in Capture One.
 - **`SelectPreviousVariant.applescript`**: Selects the previous variant of an image in Capture One.
+
 **Rating**
 - **`AddStar.applescript`**: Increases the star rating of selected images by one, up to a maximum of 5 stars.
 - **`RemoveStar.applescript`**: Decreases the star rating of selected images by one, down to a minimum of 0 stars.
