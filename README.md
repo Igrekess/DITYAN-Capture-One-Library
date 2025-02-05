@@ -7,3 +7,39 @@ A library of useful AppleScript functions for Capture One. Designed to help Digi
 - **Reusable AppleScript Functions**: A collection of small but powerful functions to extend Capture One's automation capabilities.
 - **Integration with Capture One**: Designed specifically for Capture One users looking to automate repetitive tasks.
 - **Modular and Customizable**: Easily integrate into your own AppleScripts to enhance functionality, or using them with tools like streamdeck or better touch tool.
+
+
+## Available Scripts
+
+**Adjustment**
+- **`BasicAdj.applescript`**: Resets all adjustments of selected images except temperature and tint.
+- **`Color2BW.applescript`**: Toggles black and white mode for selected images.
+- **`ResetComposition.applescript`**: Resets the rotation and crop settings of selected images.
+**Capture**
+- **`capture.applescript`**: Triggers the capture of an image through Capture One.
+**Navigation**
+- **`SelectNextVariant.applescript`**: Selects the next variant of an image in Capture One.
+- **`SelectPreviousVariant.applescript`**: Selects the previous variant of an image in Capture One.
+**Rating**
+- **`AddStar.applescript`**: Increases the star rating of selected images by one, up to a maximum of 5 stars.
+- **`RemoveStar.applescript`**: Decreases the star rating of selected images by one, down to a minimum of 0 stars.
+
+## Usage
+
+- Include functions from this library in your own AppleScripts.
+- Call the functions within Capture One automation scripts.
+- Modify and extend the scripts to suit your specific workflow needs.
+
+## Requirements
+
+- **macOS**
+- **Capture One Pro 16+**
+- **AppleScript support enabled**
+
+## Contribution
+
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+## License
+
+MIT License. See `LICENSE` file for details.
