@@ -43,6 +43,14 @@ A library of useful AppleScript functions for Capture One. Designed to help Digi
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
+## Useful Resources
+
+Here are some useful resources for users looking to further explore Capture One automation with AppleScript:
+
+- [CaptureOneScripts by emorydunn](https://github.com/emorydunn/CaptureOneScripts) - A collection of useful scripts for Capture One.
+- [Capture One Scripts by walterrowe](https://github.com/walterrowe/capture-one-scripts) - Various AppleScripts to improve Capture One workflows.
+
+
 ## License
 
 MIT License. See `LICENSE` file for details.
