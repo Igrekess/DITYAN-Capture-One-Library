@@ -1,4 +1,5 @@
 <img src="AppleScriptLogo.png" alt="An applescript logo" width="95"/>
+
 # CaptureOne DITYAN Library
 
 A library of useful AppleScript functions for Capture One. Designed to help Digital Technicians and photographers streamline their workflows by providing reusable script utilities.
