@@ -1,4 +1,4 @@
-# CaptureOne YODA Library
+# CaptureOne DITYAN Library
 
 A library of useful AppleScript functions for Capture One. Designed to help Digital Technicians and photographers streamline their workflows by providing reusable script utilities.
 
@@ -50,7 +50,7 @@ Here are some useful resources for users looking to further explore Capture One 
 - [CaptureOneScripts by emorydunn](https://github.com/emorydunn/CaptureOneScripts) - A collection of useful scripts for Capture One.
 - [Capture One Scripts by walterrowe](https://github.com/walterrowe/capture-one-scripts) - Various AppleScripts to improve Capture One workflows.
 
-
+My website ‣‣‣ [Dityan.com](http://www.dityan.com)
 ## License
 
 MIT License. See `LICENSE` file for details.
